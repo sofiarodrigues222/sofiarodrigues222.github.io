@@ -1,0 +1,33 @@
+@charset "UFT-8";
+h1 {
+   font-size: 30px;
+   text-align: left;
+   color:black;
+} 
+
+p {
+    font-family: 15px;
+    text-align: justify;
+    color:black;
+}
+
+#div_principal {
+    width: 950px;
+    margin:0 auto 0 auto;
+    
+}
+
+#artigos {
+    width: 650px;
+    float: left;
+    margin-top: 10px;
+    border-right: 2px solid #000000;
+    padding-right: 20px;
+
+}
+
+#lateral {
+    width: 250px;
+    float: right;
+    margin-top: 10px;
+}
